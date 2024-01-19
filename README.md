@@ -1,0 +1,1 @@
+This is the second project of CS120 and it is the Knock knock project. So if you want to engage and intereact with code that excels at telling one joke and one joke only then you've come to the right place. This is actually the second thing I've ever coded in my life but it was a really fun learning experience!
